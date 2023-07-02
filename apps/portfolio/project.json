@@ -17,7 +17,8 @@
         "tsConfig": "apps/portfolio/tsconfig.app.json",
         "assets": [
           "apps/portfolio/src/favicon.ico",
-          "apps/portfolio/src/assets"
+          "apps/portfolio/src/assets",
+          "apps/portfolio/src/_redirects"
         ],
         "styles": ["apps/portfolio/src/styles.scss"],
         "scripts": []
