@@ -2,7 +2,9 @@
   "name": "@portfolio/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx serve portfolio"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.1.0",
